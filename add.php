@@ -1,12 +1,12 @@
 <html>
 <head>
     <title>LOGIN</title>
-</head>hhh
+</head>
 
 <body>
     <h2 style="text-align:center">LOGIN</h2>
     <p>
-        <img src="images/login.png" height="100" width="100" style="display:block; margin:auto;"/>
+        <img src="login.png" height="100" width="100" style="display:block; margin:auto;"/>
     </p>
     <form action="add.php" method="post" name="form1">
         <table style="margin-left: auto; margin-right: auto; width=25%; border=0;">
@@ -16,11 +16,7 @@
             <tr> <td>PASSWORD</td> </tr>
             <tr> <td><input type="text" name="password"></td> </tr>
 
-            <tr> <td>Lupa Password?</td> </tr>
             <tr><td><input type="submit" name="Submit" value="ENTER"></td> </tr>
-
-            <tr> <td>Belum Punya Akun?</td> </tr>
-            <tr> <td>Sign Up</td> </tr>
         </table>
     </form>
 
